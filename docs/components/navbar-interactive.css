@@ -2,6 +2,9 @@
   display: flex;
   position: relative;
 }
+.navbar-interactive-navbar-interactive {
+  padding-left: 0px;
+}
 .navbar-interactive-desktop-menu {
   flex: 1;
   display: flex;
